@@ -1,0 +1,38 @@
+[
+  6: {
+    "name": "Charizard",
+    "Lvl": 50,
+    "stats": {
+      "HP": 87,
+      "Attack": 84,
+      "Defense": 78,
+      "Sp. Attack": 109,
+      "Sp. Defence": 85,
+      "Speed": 100,
+    },
+    "moves": {
+      "Flamethrower": 90,
+      "Slash": 70,
+      "Flame Burst": 70,
+      "Fire Fang": 65
+    }
+  },
+  130: {
+    "name": "Gyarados",
+    "Lvl": 50,
+    "stats": {
+      "HP": 95,
+      "Attack": 125,
+      "Defense": 79,
+      "Sp. Attack": 60,
+      "Sp. Defence": 100,
+      "Speed": 81,
+    },
+    "moves": {
+      "Hurricane": 110,
+      "Hydro Pump": 110,
+      "Crunch": 80,
+      "Aqua Tail": 90
+    }
+  }
+]
