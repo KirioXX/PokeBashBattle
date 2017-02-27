@@ -1,0 +1,4 @@
+# PokeBashBattle
+
+## TODO
+* Add GUI
