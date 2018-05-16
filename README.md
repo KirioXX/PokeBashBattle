@@ -1,4 +1,3 @@
 # PokeBashBattle
 
-## TODO
-* Add GUI
+Fun project to remind java.
